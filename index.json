@@ -5,7 +5,7 @@
       "description": "A new feature",
       "title": "Features"
     },
-    "fix": {
+    "fix": { 
       "description": "A bug fix",
       "title": "Bug Fixes"
     },
